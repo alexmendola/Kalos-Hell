@@ -1,0 +1,17 @@
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\TestSQLlite.exe.config
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\TestSQLlite.exe
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\TestSQLlite.pdb
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\EntityFramework.dll
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\EntityFramework.xml
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.csproj.AssemblyReference.cache
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.csproj.CoreCompileInputs.cache
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.csproj.CopyComplete
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.exe
+C:\Users\amalm\source\repos\TestSQLlite\TestSQLlite\obj\Debug\TestSQLlite.pdb
