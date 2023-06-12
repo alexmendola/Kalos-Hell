@@ -11,6 +11,7 @@ namespace TestSQLlite
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hi");
             PokemonDB samp = new PokemonDB();
             samp.CreateDatabaseAndTable();
 
